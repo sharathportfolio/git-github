@@ -1,0 +1,8 @@
+1.You just committed and want to edit or undo it (locally)
+- git commit --amend
+
+This opens your editor to modify the message.
+
+esc
+:wq --> write & quit 
+:q! --> quit without saving
