@@ -6,3 +6,10 @@ This opens your editor to modify the message.
 esc
 :wq --> write & quit 
 :q! --> quit without saving
+
+
+
+
+
+cmd + , -> git
+**/.git
